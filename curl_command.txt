@@ -1,0 +1,4 @@
+curl -X POST https://notify-api.line.me/api/notify -H 'Authorization: Bearer TgppZjGb5582yaHWdN09q3EtdhpDxhBzskJF8mnZQh0' -F 'message=test'  -F 'imageFile=@/home/ubuntu/predictions.jpg'
+
+#Convert curl to python3
+https://curl.trillworks.com/
